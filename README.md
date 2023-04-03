@@ -1,6 +1,6 @@
-# CNN-MNIST🐰
+# CNN-MNIST 🐰
 
-Classifying MNIST datasets with CNN models
+Classifying MNIST datasets with CNN models 
 
 
 ## Accuracy result
@@ -10,3 +10,8 @@ Classifying MNIST datasets with CNN models
 ## sample prediction
 
 ![33219b8930d4d4ba320e0f720e4a073](https://user-images.githubusercontent.com/67517025/229425600-c7ed3554-f2d3-45bf-a1b0-2997ecf775b2.png)
+
+
+# BP-MNIST🐰
+
+Include basic BP and other two methods ( using tensorflow and pytorch)
